@@ -1,0 +1,30 @@
+
+clear && echo -e "╭────────────── All Keybinds ──────────────╮
+│ Alt + T: Open Terminal                   │    ╭─────────── Custom Commands ───────────╮
+│ Alt + Z: Close Window                    │    │ calx: Opens the calculator            │
+│                                          │────│ keybinds: Opens the keybinds          │
+│   ───────── System Keybinds ─────────    │    │ cls: Clears the screen & neofetch     │
+│ Alt + Win + R: Restart                   │    ╰───────────────────────────────────────╯
+│ Alt + Win + Q: Shutdown                  │                 │               │
+│ Win + Esc: Power Menu                    │                 │               │
+│ Win + 0: Recording Menu                  │         ╭─────────── Credits ───────────╮
+│                                          │         │ Made By: Gast                 │
+│   ───────── Window Keybinds ─────────    │         │ Version: 1.0.0                │
+│ Win + S: Unsnap Window                   │         │ Date: 10/10/2021              │
+│ Win + T: Snap Window                     │         │ Discord: Gast#5037            │
+│ Win + F: Fullscreen Window               │         ╰───────────────────────────────╯
+│ Win + Shift + T: Small Window            │
+│                                          │
+│   ────────── Theme Keybind ──────────    │
+│ Theme Binds                              │
+│ Alt + Win + Space: Toggle Theme Selector │
+│                                          │
+│   ───────── Firfox Keybinds ─────────    │
+│ Alt + F: Opens Firefix                   │
+│ Alt + D: Opens DIscord                   │
+│ Tab + Ctrl: Next Tab                     │
+│ Ctrl + L: URL Bar                        │
+│ Ctrl + Shift + Tab: Past Tab             │
+│ Alt + Ark L-R: Page Change               │
+│                                          │
+╰──────────────────────────────────────────╯"
