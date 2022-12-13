@@ -8,12 +8,12 @@ clear && echo -e "╭────────────── All Keybinds ─
 │ Alt + Win + Q: Shutdown                  │                 │               │
 │ Win + Esc: Power Menu                    │                 │               │
 │ Win + 0: Recording Menu                  │         ╭─────────── Credits ───────────╮
-│                                          │         │ Made By: Gast                 │
+│                                          │         │ Made By: Gast & Graham        │
 │   ───────── Window Keybinds ─────────    │         │ Version: 1.0.0                │
 │ Win + S: Unsnap Window                   │         │ Date: 10/10/2021              │
-│ Win + T: Snap Window                     │         │ Discord: Gast#5037            │
-│ Win + F: Fullscreen Window               │         ╰───────────────────────────────╯
-│ Win + Shift + T: Small Window            │
+│ Win + T: Snap Window                     │         │ Discord-Gast: Gast#5037       │
+│ Win + F: Fullscreen Window               │         │ Discord-Graham: Graham#3582   │     
+│ Win + Shift + T: Small Window            │         ╰───────────────────────────────╯
 │                                          │
 │   ────────── Theme Keybind ──────────    │
 │ Theme Binds                              │
