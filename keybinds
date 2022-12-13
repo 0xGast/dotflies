@@ -13,15 +13,14 @@ clear && echo -e "╭────────────── All Keybinds ─
 │ Win + S: Unsnap Window                   │         │ Date: 10/10/2021              │
 │ Win + T: Snap Window                     │         │ Discord-Gast: Gast#5037       │
 │ Win + F: Fullscreen Window               │         │ Discord-Graham: Graham#3582   │     
-│ Win + Shift + T: Small Window            │         ╰───────────────────────────────╯
+│ Win + Shift + T: Pseudo WIndow           │         ╰───────────────────────────────╯
 │                                          │
 │   ────────── Theme Keybind ──────────    │
-│ Theme Binds                              │
 │ Alt + Win + Space: Toggle Theme Selector │
 │                                          │
 │   ───────── Firfox Keybinds ─────────    │
-│ Alt + F: Opens Firefix                   │
-│ Alt + D: Opens DIscord                   │
+│ Alt + F: Open Firefox                    │
+│ Alt + D: Open Discord                    │
 │ Tab + Ctrl: Next Tab                     │
 │ Ctrl + L: URL Bar                        │
 │ Ctrl + Shift + Tab: Past Tab             │
