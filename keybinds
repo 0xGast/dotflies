@@ -26,5 +26,4 @@ clear && echo -e "╭────────────── All Keybinds ─
 │ Ctrl + L: URL Bar                        │
 │ Ctrl + Shift + Tab: Past Tab             │
 │ Alt + Ark L-R: Page Change               │
-│                                          │
 ╰──────────────────────────────────────────╯"
